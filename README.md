@@ -3,5 +3,7 @@ A datapack that turns phantoms into more annoying rebels by picking you up and d
 
 To remove the datapack completely, run:
 ```
-h
+/function tchp:config/remove
 ```
+either in the chat or the console.
+Afterwards you may remove it if `/reload` wasn't ran.
