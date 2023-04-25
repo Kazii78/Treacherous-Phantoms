@@ -6,4 +6,4 @@ To remove the datapack completely, run:
 /function tchp:config/remove
 ```
 either in the chat or the console.
-Afterwards you may remove it if `/reload` wasn't ran.
+Afterwards you may remove it from the files if `/reload` wasn't ran.
